@@ -1,7 +1,7 @@
 # Drive Genius – Professional Disk Utility and Optimization Tool for Mac
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/17099/l/drive-genius-logo.png?v=1669833605" alt="Drive Genius Logo" width="256" height="256">  
+<img src="https://images.ifunmac.com/wp-content/images/2017/drive-genius-5.jpg" alt="Drive Genius Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
@@ -20,7 +20,7 @@ The software includes advanced tools like DrivePulse for real-time S.M.A.R.T. mo
 
 Drive Genius is fully compatible with all modern Macs, including those with Apple Silicon (M1, M2, M3) and Intel processors. It supports macOS Sonoma, Ventura, Monterey, and earlier versions, ensuring broad accessibility and stable performance.
 
-![Drive Genius Interface](https://static.macupdate.com/screenshots/318809/m/drive-genius-screenshot.png?v=1669833609)
+![Drive Genius Interface](https://www.prosofteng.com/images/dr-technician1-1105.jpg)
 
 ---
 
